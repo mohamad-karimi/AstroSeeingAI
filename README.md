@@ -10,9 +10,6 @@ monitoring data (2016-2026) rather than generic weather-forecast features.
 **Final model: XGBoost, R\u00B2 = 0.696 on a strict, chronologically held-out
 1.5-year future test period.**
 
-Full methodology and results: [`docs/report_EN.docx`](docs/report_EN.docx)
-([\u0641\u0627\u0631\u0633\u06cc / Persian version](docs/report_FA.docx)).
-
 ---
 
 ## Overview
