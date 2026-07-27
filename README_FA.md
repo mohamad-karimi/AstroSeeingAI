@@ -10,10 +10,6 @@
 
 **مدل نهایی: XGBoost، با R² = ۰.۶۹۶ روی یک بازه‌ی ۱.۵ساله‌ی کاملاً آینده و
 ندیده (chronological hold-out).**
-
-روش‌شناسی و نتایج کامل: [`docs/report_FA.docx`](docs/report_FA.docx)
-([English version](docs/report_EN.docx)).
-
 ---
 
 ## معرفی
