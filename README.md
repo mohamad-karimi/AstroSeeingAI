@@ -127,6 +127,8 @@ of yearly files.
 
 MIT \u2014 see [LICENSE](LICENSE).
 
+Source: European Southern Observatory (ESO). This dataset contains publicly available ESO archive data that have been cleaned, merged, and feature-engineered for machine learning purposes. Please credit ESO as the original data source.
+
 ## Contact / Collaboration
 
 I'm interested in extending this methodology to other observatories with
